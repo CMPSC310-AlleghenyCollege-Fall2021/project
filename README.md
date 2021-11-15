@@ -4,7 +4,7 @@
 
 - _Project Proposal_: November 19th by 11:30am
 - _Project Progress_: December 8th by 3pm
-- _Final Submission_: December 15th, by 9am
+- _Final Submission_: December 15th, by midnight
 
 ## Table of Contents
 
@@ -99,7 +99,7 @@ Your programs should be stored in the `src` directory, be well documented and co
 Your final report should highlight the key contributions of your work and consist of at least 2000 words (you are welcome to integrate text from your proposal and your progress report into your final report). The report should include a description of why the chosen application and solution is important and discuss the implementation that you undertook. The written material should be precise, formal, appropriately formatted, grammatically correct, informative, and interesting. In summary, your report should include:
 
 - The motivation for your project. Why is the question you decided to address important and useful?
-- Background for the proposed investigation. What have others done for it already? What resources have you used? Include references.
+- Background for the proposed investigation. What have others done for it already? What resources have you used? Include references. Also identify PEAS and the type of environment (stochastic, dynamic, etc.) your agent operates in.
 - Detailed description of the work you completed for this project. Provide algorithms if necessary. If you extended an existing project, clearly explain what new components you have contributed to.
 - Testing that was conducted to ensure accuracy of your implementation.
 - Sample output. You can include it directly in your report, or if it is lengthy, put it into a separate document and reference it in your report.
