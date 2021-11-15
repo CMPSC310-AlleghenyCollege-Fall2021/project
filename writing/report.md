@@ -12,7 +12,8 @@ TODO
 
 ## Background
 
-TODO
+TODO: what have others done for it already? What resources have you used? Include references.
+TODO: Also identify PEAS and the type of environment your agent operates in.
 
 ## Project Implementation Details
 
