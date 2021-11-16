@@ -174,4 +174,4 @@ Once you have typed this command, you can use the [GatorGrader tool](https://git
 
 ## Receiving Assistance
 
-If you are having trouble completing any part of this project, then please talk with either the course instructor during the lab session. Alternatively, you may ask questions in the Slack workspace for this course. Finally, you can schedule a meeting during the course instructor's office hours.
+If you are having trouble completing any part of this project, then please talk with the course instructor during the lab or class sessions. Alternatively, you may ask questions in the Discord workspace for this course. Finally, you can schedule a meeting during the course instructor's office hours.
